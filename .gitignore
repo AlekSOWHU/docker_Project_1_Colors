@@ -1,0 +1,13 @@
+# Ignore the data folder (we don't want your text files on GitHub)
+my_data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you made one)
+venv/
+.env
+
+# Ignore system files
+.DS_Store
